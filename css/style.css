@@ -1,0 +1,16 @@
+img {
+  display: block;
+  float: left;
+  width: 200px;
+}
+
+#prev {
+  background: red;
+  color: blue;
+}
+
+#next {
+  background: green;
+  color: white;
+  font-weight: bold;
+}
